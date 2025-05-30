@@ -59,8 +59,8 @@ wenziyue:
 
 # swagger-ui 配置
 springdoc:
-	swagger-ui:
-  	url: /v3/api-docs          # 明确告诉 UI 去这里拿接口定义
+  swagger-ui:
+    url: /v3/api-docs          # 明确告诉 UI 去这里拿接口定义
 ```
 
 启动后访问：http://localhost:8080/swagger-ui/index.html
